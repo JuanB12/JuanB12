@@ -94,8 +94,7 @@ Backend development in the **financial · credit & collections** sector: serverl
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JuanB12&show_icons=true&count_private=true&locale=es&hide_border=true&bg_color=0B1220&title_color=FFD43B&icon_color=3776AB&text_color=DCE7F7&ring_color=3776AB" alt="Estadísticas de GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanB12&layout=compact&locale=es&hide_border=true&bg_color=0B1220&title_color=FFD43B&text_color=DCE7F7" alt="Lenguajes más usados" />
+<img width="100%" src="https://raw.githubusercontent.com/JuanB12/JuanB12/output/stats.svg" alt="Mi actividad en GitHub: contribuciones, repositorios y lenguajes más usados" />
 
 <img src="https://streak-stats.demolab.com?user=JuanB12&locale=es&hide_border=true&background=0B1220&ring=3776AB&fire=FFD43B&currStreakLabel=FFD43B&sideLabels=DCE7F7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9FB3D1&stroke=2A4672" alt="Racha de contribuciones" />
 

@@ -1,4 +1,4 @@
-name: Generar serpiente de contribuciones
+name: Actualizar perfil (serpiente y estadísticas)
 
 on:
   schedule:
@@ -11,17 +11,24 @@ permissions:
   contents: write
 
 jobs:
-  snake:
+  perfil:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Generar SVGs
+      - uses: actions/checkout@v4
+
+      - name: Generar serpiente
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg?color_snake=#3776AB&color_dots=#ebedf0,#c6dbef,#7fb0d9,#3776AB,#FFD43B
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#FFD43B&color_dots=#161b22,#123056,#1d4f80,#3776AB,#FFD43B
+
+      - name: Generar tarjeta de estadísticas
+        run: python scripts/stats.py "${{ github.repository_owner }}" dist/stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v4
