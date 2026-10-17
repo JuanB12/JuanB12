@@ -88,7 +88,7 @@ Backend development in the **financial · credit & collections** sector: serverl
 | 🏠 [**PleasedHome**](https://github.com/JuanB12/PleasedHome) | Plataforma para contratar servicios domésticos y cuidado de niños | `TypeScript` `Next.js` `Tailwind` |
 | 🤖 [**Cookie_Cravings**](https://github.com/JuanB12/Cookie_Cravings) | Chatbot con IA para atención al cliente de una tienda de galletas | `Dialogflow` `JavaScript` |
 | 🗄️ [**activityBdVentas**](https://github.com/JuanB12/activityBdVentas) | Base de datos de ventas: clientes, comerciales y pedidos | `SQL` |
-| 🦷 [**Odontograma**](https://github.com/JuanB12/Odontograma) | Registro dental digital para documentar la salud bucal de pacientes | `HTML` `SCSS` `JavaScript` |
+| 🦷 [**Odontograma**](https://github.com/JuanB12/Odontograma) | App web para clínicas odontológicas: citas, historia clínica y odontograma digital | `Python` `Flask` `MySQL` `SCSS` |
 
 ## 📊 Estadísticas
 
