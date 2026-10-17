@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256" role="img" aria-label="SonarQube">
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <g fill="none" stroke="#4E9BCD" stroke-linecap="round">
+    <path d="M52 196 C 120 196, 172 150, 186 84" stroke-width="20"/>
+    <path d="M72 150 C 118 146, 150 116, 160 74" stroke-width="14" stroke-opacity="0.8"/>
+    <path d="M196 64 C 204 82, 208 100, 206 120" stroke-width="12" stroke-opacity="0.7"/>
+  </g>
+</svg>
