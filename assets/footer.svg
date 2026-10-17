@@ -14,8 +14,9 @@
   </defs>
   <g clip-path="url(#frame)">
     <rect width="1200" height="150" fill="url(#bg)"/>
-    <path class="wave" d="M0 112 C 160 82, 320 142, 480 112 S 800 82, 960 112 S 1200 142, 1300 112 V150 H0 Z" fill="#3776AB" fill-opacity="0.35"/>
-    <path class="wave" d="M0 126 C 180 106, 340 150, 520 126 S 860 104, 1020 126 S 1240 148, 1300 126 V150 H0 Z" fill="#FFD43B" fill-opacity="0.18"/>
+    <path class="wave" d="M0 112 C 160 82, 320 142, 480 112 S 800 82, 960 112 S 1200 142, 1300 112 V150 H0 Z" fill="#3776AB" fill-opacity="0.30"/>
+    <path class="wave" d="M0 130 C 180 112, 340 150, 520 130 S 860 110, 1020 130 S 1240 150, 1300 130 V150 H0 Z" fill="#10284D"/>
+    <path class="wave" d="M0 130 C 180 112, 340 150, 520 130 S 860 110, 1020 130 S 1240 150, 1300 130" fill="none" stroke="#FFD43B" stroke-width="2" stroke-opacity="0.7"/>
   </g>
   <text x="600" y="62" text-anchor="middle" class="sans" font-size="26" font-weight="700" fill="#FFFFFF">Gracias por visitar · Thanks for visiting</text>
   <text x="600" y="92" text-anchor="middle" class="mono" font-size="15" fill="#FFD43B">while (vivo) { aprender(); compartir(); }</text>
