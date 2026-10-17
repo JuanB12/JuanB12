@@ -26,24 +26,45 @@
 
 ---
 
+## 💼 En qué trabajo ahora · What I'm working on
+
+🇪🇸 Desarrollo backend en el sector **financiero / crédito y cartera**:
+
+- ⚙️ **Microservicios serverless en AWS Lambda** con **Python (FastAPI)**, diseñados con **arquitectura hexagonal**, pruebas automatizadas y análisis de calidad con **SonarQube**
+- 🔄 **Migración de servicios legacy** (Python + Oracle) a la nueva arquitectura
+- 🗄️ Lógica de negocio en **Oracle PL/SQL**: paquetes, procedimientos y consultas para procesos de cartera
+- 📈 **Simulador de tasas y planes de amortización**, con validación de políticas de crédito
+- 🔗 **Integraciones** con proveedores externos para pagos y cargue de información
+- 🖥️ Funcionalidades en un **panel administrativo en Angular (TypeScript)**
+- 🤖 Uso de **IA en el desarrollo** con Claude Code (skills, agentes y un agente de QA)
+- 🚀 CI/CD con **GitHub Actions, Jenkins y Docker**
+
+🇺🇸 Backend development in the **financial / credit & collections** sector: serverless microservices on **AWS Lambda** with **Python (FastAPI)** and **hexagonal architecture**, **legacy migration**, **Oracle PL/SQL** business logic, an **interest-rate & amortization simulator**, third-party **integrations**, an **Angular** admin panel, and **AI-assisted development** with Claude Code.
+
+---
+
 ## 🛠️ Tecnologías · Tech Stack
 
 **Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **Bases de datos · Databases**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frontend**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -54,6 +75,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**DevOps y calidad · DevOps & Quality**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ---
 
