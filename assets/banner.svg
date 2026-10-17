@@ -80,10 +80,10 @@
         <text x="22" y="96"><tspan fill="#DCE7F7">app = </tspan><tspan fill="#FFD43B">Flask</tspan><tspan fill="#DCE7F7">(__name__)</tspan></text>
         <text x="22" y="132"><tspan fill="#82AAFF">@app.get</tspan><tspan fill="#DCE7F7">(</tspan><tspan fill="#C3E88D">"/juan"</tspan><tspan fill="#DCE7F7">)</tspan></text>
         <text x="22" y="158"><tspan fill="#C792EA">def</tspan><tspan fill="#82AAFF"> perfil</tspan><tspan fill="#DCE7F7">():</tspan></text>
-        <text x="22" y="184"><tspan fill="#DCE7F7">    </tspan><tspan fill="#C792EA">return</tspan><tspan fill="#DCE7F7"> {</tspan><tspan fill="#C3E88D">"rol"</tspan><tspan fill="#DCE7F7">: </tspan><tspan fill="#C3E88D">"backend"</tspan><tspan fill="#DCE7F7">,</tspan></text>
-        <text x="22" y="210"><tspan fill="#DCE7F7">            </tspan><tspan fill="#C3E88D">"ia"</tspan><tspan fill="#DCE7F7">: </tspan><tspan fill="#F78C6C">True</tspan><tspan fill="#DCE7F7">}</tspan></text>
+        <text x="58" y="184" xml:space="preserve"><tspan fill="#C792EA">return</tspan><tspan fill="#DCE7F7"> {</tspan><tspan fill="#C3E88D">"rol"</tspan><tspan fill="#DCE7F7">: </tspan><tspan fill="#C3E88D">"backend"</tspan><tspan fill="#DCE7F7">,</tspan></text>
+        <text x="130" y="210" xml:space="preserve"><tspan fill="#C3E88D">"ia"</tspan><tspan fill="#DCE7F7">: </tspan><tspan fill="#F78C6C">True</tspan><tspan fill="#DCE7F7">}</tspan></text>
       </g>
-      <rect class="cursor" x="240" y="196" width="9" height="18" fill="#FFD43B"/>
+      <rect class="cursor" x="237" y="196" width="9" height="18" fill="#FFD43B"/>
     </g>
   </g>
 </svg>
