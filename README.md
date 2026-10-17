@@ -7,7 +7,6 @@
 [![Email](https://img.shields.io/badge/Email-jcamilobb03%40gmail.com-3776AB?style=flat-square&logo=gmail&logoColor=FFD43B&labelColor=0B1220)](mailto:jcamilobb03@gmail.com)
 [![X](https://img.shields.io/badge/X-@BarriosJuan20-3776AB?style=flat-square&logo=x&logoColor=FFD43B&labelColor=0B1220)](https://x.com/BarriosJuan20)
 ![Ubicación](https://img.shields.io/badge/Barranquilla-Colombia-3776AB?style=flat-square&logo=googlemaps&logoColor=FFD43B&labelColor=0B1220)
-![Visitas](https://komarev.com/ghpvc/?username=JuanB12&style=flat-square&color=3776AB&label=visitas)
 
 </div>
 
@@ -21,7 +20,7 @@ Desarrollador **backend** que construye **APIs y servicios** con **Python y Flas
 - ⚡ **Lema:** todos los días se aprende algo nuevo
 
 <details>
-<summary>🇺🇸 <b>About me (English)</b></summary>
+<summary>🌎 <b>About me (English)</b></summary>
 <br/>
 
 **Backend developer** building **APIs and services** with **Python and Flask/FastAPI**, and designing and optimizing **databases** with **SQL, PL/SQL and PostgreSQL**. I'm passionate about bringing **AI** into real-world solutions and automating processes so teams can work smarter.
@@ -48,7 +47,7 @@ Desarrollo backend en el sector **financiero · crédito y cartera**:
 | 🚀 **CI/CD** | GitHub Actions, Jenkins y Docker |
 
 <details>
-<summary>🇺🇸 <b>What I'm working on (English)</b></summary>
+<summary>🌎 <b>What I'm working on (English)</b></summary>
 <br/>
 
 Backend development in the **financial · credit & collections** sector: serverless microservices on **AWS Lambda** with **Python (FastAPI)** and **hexagonal architecture**, **legacy modernization**, **Oracle PL/SQL** business logic, an **interest-rate & amortization simulator**, third-party **integrations**, an **Angular** admin panel, and **AI-assisted development** with Claude Code.
@@ -64,10 +63,7 @@ Backend development in the **financial · credit & collections** sector: serverl
   </tr>
   <tr>
     <td align="center"><b>Bases de datos</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres&perline=8" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Oracle-PL%2FSQL-FFD43B?style=for-the-badge&logo=oracle&logoColor=FFD43B&labelColor=0B1220" alt="Oracle PL/SQL" height="48" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />&nbsp;<img src="./assets/oracle.svg" width="48" alt="Oracle PL/SQL" title="Oracle PL/SQL" /></td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
@@ -75,17 +71,11 @@ Backend development in the **financial · credit & collections** sector: serverl
   </tr>
   <tr>
     <td align="center"><b>Cloud y DevOps</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions,git&perline=8" alt="AWS, Docker, Jenkins, GitHub Actions, Git" />
-      <img src="https://img.shields.io/badge/SonarQube-calidad-3776AB?style=for-the-badge&logo=sonarqube&logoColor=FFD43B&labelColor=0B1220" alt="SonarQube" height="48" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions,git&perline=8" alt="AWS, Docker, Jenkins, GitHub Actions, Git" />&nbsp;<img src="./assets/sonarqube.svg" width="48" alt="SonarQube" title="SonarQube" /></td>
   </tr>
   <tr>
     <td align="center"><b>IA y herramientas</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Claude_Code-agentes_y_skills-3776AB?style=for-the-badge&logo=anthropic&logoColor=FFD43B&labelColor=0B1220" alt="Claude Code" height="48" />
-      <img src="https://skillicons.dev/icons?i=postman,vscode&perline=8" alt="Postman, VS Code" />
-    </td>
+    <td><img src="./assets/claude.svg" width="48" alt="Claude Code" title="Claude Code" />&nbsp;<img src="https://skillicons.dev/icons?i=postman,vscode&perline=8" alt="Postman, VS Code" /></td>
   </tr>
 </table>
 
@@ -108,20 +98,6 @@ Backend development in the **financial · credit & collections** sector: serverl
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanB12&layout=compact&locale=es&hide_border=true&bg_color=0B1220&title_color=FFD43B&text_color=DCE7F7" alt="Lenguajes más usados" />
 
 <img src="https://streak-stats.demolab.com?user=JuanB12&locale=es&hide_border=true&background=0B1220&ring=3776AB&fire=FFD43B&currStreakLabel=FFD43B&sideLabels=DCE7F7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9FB3D1&stroke=2A4672" alt="Racha de contribuciones" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanB12&bg_color=0B1220&color=DCE7F7&title_color=FFD43B&line=3776AB&point=FFD43B&area=true&area_color=3776AB&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfica de actividad" />
-
-</div>
-
-## 🐍 Mi serpiente de contribuciones
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanB12/JuanB12/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanB12/JuanB12/output/github-snake.svg" />
-  <img alt="Serpiente comiéndose mi gráfica de contribuciones" src="https://raw.githubusercontent.com/JuanB12/JuanB12/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
