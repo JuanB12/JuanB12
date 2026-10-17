@@ -101,6 +101,18 @@ Backend development in the **financial · credit & collections** sector: serverl
 
 </div>
 
+## 🐍 Mi serpiente de contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanB12/JuanB12/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanB12/JuanB12/output/github-snake.svg" />
+  <img alt="Serpiente comiéndose mi gráfica de contribuciones" src="https://raw.githubusercontent.com/JuanB12/JuanB12/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
 <br/>
 
 <img src="./assets/footer.svg" alt="Gracias por visitar · Thanks for visiting" width="100%" />
