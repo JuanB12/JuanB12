@@ -27,10 +27,6 @@
       .chip text { font-size: 15px; font-weight: 600; fill: #DCE7F7; }
       .cursor { animation: blink 1.1s steps(1) infinite; }
       @keyframes blink { 50% { opacity: 0; } }
-      .latido { transform-box: fill-box; transform-origin: left center; animation: latido 2.4s ease-in-out infinite; }
-      @keyframes latido { 0%, 100% { transform: scale(1); } 15% { transform: scale(1.035); } 30% { transform: scale(1); } 45% { transform: scale(1.02); } 60% { transform: scale(1); } }
-      .halo { transform-box: fill-box; transform-origin: left center; animation: halo 2.4s ease-in-out infinite; }
-      @keyframes halo { 0%, 100% { opacity: .15; transform: scale(1); } 15% { opacity: .85; transform: scale(1.035); } 30% { opacity: .3; transform: scale(1); } 45% { opacity: .6; transform: scale(1.02); } 60% { opacity: .15; transform: scale(1); } }
       .ondea { transform-box: fill-box; animation: ondea 4s ease-in-out infinite; }
       @keyframes ondea { 0%, 100% { transform: translate(500px, 116px) rotate(0deg); } 50% { transform: translate(500px, 113px) rotate(-3deg); } }
       .float { animation: float 6s ease-in-out infinite; }
@@ -51,8 +47,13 @@
   <!-- Texto principal -->
   <g class="sans">
     <text x="64" y="92" class="mono" font-size="18" fill="#FFD43B">&lt;backend-developer /&gt;</text>
-    <text x="62" y="160" font-size="66" font-weight="800" fill="#3776AB" letter-spacing="-1" filter="url(#brilloNombre)" class="halo">Juan Barrios</text>
-    <text x="62" y="160" font-size="66" font-weight="800" fill="url(#name)" letter-spacing="-1" class="latido">Juan Barrios</text>
+    <g transform="translate(62 136)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1;1.07;1;1.045;1;1" keyTimes="0;0.12;0.24;0.36;0.5;1" dur="1.6s" repeatCount="indefinite"/>
+        <text x="0" y="24" font-size="66" font-weight="800" fill="#4E9BCD" letter-spacing="-1" filter="url(#brilloNombre)" opacity="0.2">Juan Barrios<animate attributeName="opacity" values="0.2;1;0.3;0.75;0.2;0.2" keyTimes="0;0.12;0.24;0.36;0.5;1" dur="1.6s" repeatCount="indefinite"/></text>
+        <text x="0" y="24" font-size="66" font-weight="800" fill="url(#name)" letter-spacing="-1">Juan Barrios</text>
+      </g>
+    </g>
     <!-- bandera de Colombia -->
     <g class="ondea" transform="translate(500 116)">
       <clipPath id="banderaClip"><rect width="58" height="40" rx="6"/></clipPath>
