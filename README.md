@@ -85,11 +85,11 @@ Backend development in the **financial · credit & collections** sector: serverl
 |---|---|---|
 | 📚 [**biblioteca-fullstack**](https://github.com/JuanB12/biblioteca-fullstack) | Sistema de préstamos y reservas con JWT, correos e integración con Open Library | `Java 21` `Spring Boot` `PostgreSQL` `React` `Docker` |
 | 💳 [**simulador-credito-api**](https://github.com/JuanB12/simulador-credito-api) | API serverless de simulación de créditos con amortización francesa y políticas de crédito | `FastAPI` `AWS Lambda` `DynamoDB` `Terraform` |
-| 🐍 [**ParcialPythonAnywhere**](https://github.com/JuanB12/ParcialPythonAnywhere) | API de solicitudes de vehículos y viajes, desplegada en PythonAnywhere | `Python` `Flask` |
-| 🏠 [**PleasedHome**](https://github.com/JuanB12/PleasedHome) | Plataforma para contratar servicios domésticos y cuidado de niños | `TypeScript` `Next.js` `Tailwind` |
-| 🤖 [**Cookie_Cravings**](https://github.com/JuanB12/Cookie_Cravings) | Chatbot con IA para atención al cliente de una tienda de galletas | `Dialogflow` `JavaScript` |
-| 🗄️ [**activityBdVentas**](https://github.com/JuanB12/activityBdVentas) | Base de datos de ventas: clientes, comerciales y pedidos | `SQL` |
-| 🦷 [**Odontograma**](https://github.com/JuanB12/Odontograma) | App web para clínicas odontológicas: citas, historia clínica y odontograma digital | `Python` `Flask` `MySQL` `SCSS` |
+| 🐍 [**ParcialPythonAnywhere**](https://github.com/JuanB12/ParcialPythonAnywhere) <br/><sub>🎓 Universidad</sub> | API de solicitudes de vehículos y viajes, desplegada en PythonAnywhere | `Python` `Flask` |
+| 🏠 [**PleasedHome**](https://github.com/JuanB12/PleasedHome) <br/><sub>🎓 Universidad</sub> | Plataforma para contratar servicios domésticos y cuidado de niños | `TypeScript` `Next.js` `Tailwind` |
+| 🤖 [**Cookie_Cravings**](https://github.com/JuanB12/Cookie_Cravings) <br/><sub>🎓 Universidad</sub> | Chatbot con IA para atención al cliente de una tienda de galletas | `Dialogflow` `JavaScript` |
+| 🗄️ [**activityBdVentas**](https://github.com/JuanB12/activityBdVentas) <br/><sub>🎓 Universidad</sub> | Base de datos de ventas: clientes, comerciales y pedidos | `SQL` |
+| 🦷 [**Odontograma**](https://github.com/JuanB12/Odontograma) <br/><sub>🎓 Universidad</sub> | App web para clínicas odontológicas: citas, historia clínica y odontograma digital | `Python` `Flask` `MySQL` `SCSS` |
 
 ## 📊 Estadísticas
 
