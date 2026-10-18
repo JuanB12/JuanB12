@@ -84,6 +84,7 @@ Backend development in the **financial · credit & collections** sector: serverl
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | 📚 [**biblioteca-fullstack**](https://github.com/JuanB12/biblioteca-fullstack) | Sistema de préstamos y reservas con JWT, correos e integración con Open Library | `Java 21` `Spring Boot` `PostgreSQL` `React` `Docker` |
+| 💳 [**simulador-credito-api**](https://github.com/JuanB12/simulador-credito-api) | API serverless de simulación de créditos con amortización francesa y políticas de crédito | `FastAPI` `AWS Lambda` `DynamoDB` `Terraform` |
 | 🐍 [**ParcialPythonAnywhere**](https://github.com/JuanB12/ParcialPythonAnywhere) | API de solicitudes de vehículos y viajes, desplegada en PythonAnywhere | `Python` `Flask` |
 | 🏠 [**PleasedHome**](https://github.com/JuanB12/PleasedHome) | Plataforma para contratar servicios domésticos y cuidado de niños | `TypeScript` `Next.js` `Tailwind` |
 | 🤖 [**Cookie_Cravings**](https://github.com/JuanB12/Cookie_Cravings) | Chatbot con IA para atención al cliente de una tienda de galletas | `Dialogflow` `JavaScript` |
