@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Juan Barrios — Backend Developer · Python · Flask · SQL · IA" width="100%" />
+<img src="./assets/banner.svg?v=respira" alt="Juan Barrios — Backend Developer · Python · Flask · SQL · IA" width="100%" />
 
 <br/>
 
