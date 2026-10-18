@@ -4,7 +4,8 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-jcamilobb03%40gmail.com-3776AB?style=flat-square&logo=gmail&logoColor=FFD43B&labelColor=0B1220)](mailto:jcamilobb03@gmail.com)
+<img src="./assets/estado.svg" alt="Abierto a colaborar en proyectos backend" height="44" />
+
 [![X](https://img.shields.io/badge/X-@BarriosJuan20-3776AB?style=flat-square&logo=x&logoColor=FFD43B&labelColor=0B1220)](https://x.com/BarriosJuan20)
 ![Ubicación](https://img.shields.io/badge/Barranquilla-Colombia-3776AB?style=flat-square&logo=googlemaps&logoColor=FFD43B&labelColor=0B1220)
 
