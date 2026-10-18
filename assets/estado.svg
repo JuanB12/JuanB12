@@ -13,7 +13,7 @@
   <rect x="1" y="1" width="438" height="42" rx="21" fill="url(#bg)" stroke="#2A4672"/>
   <circle class="onda" cx="26" cy="22" r="5" fill="#28C840"/>
   <circle cx="26" cy="22" r="5" fill="#28C840"/>
-  <text x="44" y="27">Abierto a colaborar en proyectos backend<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.30;0.33;0.97;1" dur="9s" repeatCount="indefinite"/></text>
-  <text x="44" y="27" opacity="0">Open to backend collaborations 🌎<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.36;0.63;0.66;1" dur="9s" repeatCount="indefinite"/></text>
-  <text x="44" y="27" opacity="0">Construyendo APIs con Python <tspan fill="#FFD43B">+ IA</tspan> 🐍<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.66;0.69;0.94;0.97;1" dur="9s" repeatCount="indefinite"/></text>
+  <text x="232" y="27" text-anchor="middle">Abierto a colaborar en proyectos backend<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.30;0.33;0.97;1" dur="9s" repeatCount="indefinite"/></text>
+  <text x="232" y="27" text-anchor="middle" opacity="0">Open to backend collaborations 🌎<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.36;0.63;0.66;1" dur="9s" repeatCount="indefinite"/></text>
+  <text x="232" y="27" text-anchor="middle" opacity="0">Construyendo APIs con Python <tspan fill="#FFD43B">+ IA</tspan> 🐍<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.66;0.69;0.94;0.97;1" dur="9s" repeatCount="indefinite"/></text>
 </svg>
