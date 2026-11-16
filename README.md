@@ -6,6 +6,7 @@
 
 <img src="./assets/estado.svg" alt="Abierto a colaborar en proyectos backend" height="44" />
 
+[![Portafolio](https://img.shields.io/badge/Portafolio-juanb12.github.io-FFD43B?style=flat-square&logo=googlechrome&logoColor=0B1220&labelColor=3776AB)](https://juanb12.github.io)
 [![X](https://img.shields.io/badge/X-@BarriosJuan20-3776AB?style=flat-square&logo=x&logoColor=FFD43B&labelColor=0B1220)](https://x.com/BarriosJuan20)
 ![Ubicación](https://img.shields.io/badge/Barranquilla-Colombia-3776AB?style=flat-square&logo=googlemaps&logoColor=FFD43B&labelColor=0B1220)
 
@@ -15,6 +16,7 @@
 
 Desarrollador **backend** que construye **APIs y servicios** con **Python y Flask/FastAPI**, y diseña y optimiza **bases de datos** con **SQL, PL/SQL y PostgreSQL**. Me apasiona integrar **Inteligencia Artificial** en soluciones reales y automatizar procesos para que los equipos trabajen mejor.
 
+- 🌐 **Portafolio:** [juanb12.github.io](https://juanb12.github.io)
 - 🔭 **Ahora:** microservicios serverless y automatización con IA
 - 🌱 **Aprendiendo:** agentes de IA y Claude Code
 - 🤝 **Abierto a:** colaborar en proyectos backend
@@ -26,6 +28,7 @@ Desarrollador **backend** que construye **APIs y servicios** con **Python y Flas
 
 **Backend developer** building **APIs and services** with **Python and Flask/FastAPI**, and designing and optimizing **databases** with **SQL, PL/SQL and PostgreSQL**. I'm passionate about bringing **AI** into real-world solutions and automating processes so teams can work smarter.
 
+- 🌐 **Portfolio:** [juanb12.github.io/en](https://juanb12.github.io/en/)
 - 🔭 **Now:** serverless microservices & AI automation
 - 🌱 **Learning:** AI agents & Claude Code
 - 🤝 **Open to:** collaborating on backend projects
